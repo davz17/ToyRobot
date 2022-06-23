@@ -17,11 +17,11 @@
 # ToyRobot Game instructions
 
 ## Commands accepted (not case sensitive):	
-PLACE X,Y,F	: put the Toy robot in the position X,Y and facing NORTH, SOUTH, EAST or WEST
-MOVE	    : move the toy robot one unit forward in the direction currently facing
-LEFT	    : rotate the toy robot 90 degrees to left
-RIGHT	    : rotate the toy robot 90 degrees to right
-REPORT	    : display the X,Y and F of the robot
+* PLACE X,Y,F	: put the Toy robot in the position X,Y and facing NORTH, SOUTH, EAST or WEST
+* MOVE	    : move the toy robot one unit forward in the direction currently facing
+* LEFT	    : rotate the toy robot 90 degrees to left
+* RIGHT	    : rotate the toy robot 90 degrees to right
+* REPORT	    : display the X,Y and F of the robot
 
 ## Constraints:	
 * The Robot is free to roam around the surface table but must be prevented from falling.
