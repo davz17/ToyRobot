@@ -31,21 +31,21 @@
 ## Examples:
 1)
 PLACE 0,0,NORTH <br>
-MOVE
-REPORT
-Output: 0,1,NORTH
+MOVE <br>
+REPORT <br>
+Output: 0,1,NORTH <br>
 
 2)
-PLACE 0,0,NORTH
-LEFT
-REPORT
+PLACE 0,0,NORTH <br>
+LEFT <br>
+REPORT <br>
 Output: 0,0,WEST
 
 3)
-PLACE 1,2,EAST
-MOVE
-MOVE
-LEFT
-MOVE
-REPORT
+PLACE 1,2,EAST <br>
+MOVE <br>
+MOVE <br>
+LEFT <br>
+MOVE <br>
+REPORT <br>
 Output: 3,3,NORTH
