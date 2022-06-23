@@ -30,22 +30,22 @@
 
 ## Examples:
 1)
-PLACE 0,0,NORTH <br>
-MOVE <br>
-REPORT <br>
-Output: 0,1,NORTH <br>
+  PLACE 0,0,NORTH <br>
+  MOVE <br>
+  REPORT <br>
+  Output: 0,1,NORTH <br>
 
 2)
-PLACE 0,0,NORTH <br>
-LEFT <br>
-REPORT <br>
-Output: 0,0,WEST
+  PLACE 0,0,NORTH <br>
+  LEFT <br>
+  REPORT <br>
+  Output: 0,0,WEST
 
 3)
-PLACE 1,2,EAST <br>
-MOVE <br>
-MOVE <br>
-LEFT <br>
-MOVE <br>
-REPORT <br>
-Output: 3,3,NORTH
+  PLACE 1,2,EAST <br>
+  MOVE <br>
+  MOVE <br>
+  LEFT <br>
+  MOVE <br>
+  REPORT <br>
+  Output: 3,3,NORTH
