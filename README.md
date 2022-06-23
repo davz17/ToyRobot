@@ -30,7 +30,7 @@
 
 ## Examples:
 1)
-PLACE 0,0,NORTH
+PLACE 0,0,NORTH <br>
 MOVE
 REPORT
 Output: 0,1,NORTH
