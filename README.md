@@ -29,11 +29,11 @@
 * First command should be PLACE. Discard all other commands until PLACE is executed.
 
 ## Examples:
-1)
-  PLACE 0,0,NORTH <br>
-  MOVE <br>
-  REPORT <br>
-  Output: 0,1,NORTH <br>
+1.
+    PLACE 0,0,NORTH <br>
+    MOVE <br>
+    REPORT <br>
+    Output: 0,1,NORTH <br>
 
 2)
   PLACE 0,0,NORTH <br>
